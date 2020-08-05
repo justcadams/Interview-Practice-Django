@@ -49,6 +49,6 @@ I named my folder Django.
 
 8. Enter the following command to start the service:
 
-	python3 manage.py runserver
+		python3 manage.py runserver
 	Note: This will run on port 8000 by default.
 	(Make sure no other application is using this port when you run this command).
