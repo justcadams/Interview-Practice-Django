@@ -51,4 +51,5 @@ I named my folder Django.
 
 		python3 manage.py runserver
 	Note: This will run on port 8000 by default.
+	
 	(Make sure no other application is using this port when you run this command).
