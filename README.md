@@ -1,4 +1,4 @@
-Welcome to Django!
+# Welcome to my branch exploring Django, Djongo, MongoDB, React, and Python!
 
 If you don't have Python3 please follow this link:
 https://www.python.org/downloads/
