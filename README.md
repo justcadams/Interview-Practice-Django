@@ -1,13 +1,14 @@
-#### Welcome to my branch exploring Django, Djongo, MongoDB, React, and Python!
+### Welcome to my branch exploring Django, Djongo, MongoDB, React, and Python!
 
-If you don't have Python3 please follow this link:
+#### If you don't have Python3 please follow this link:
+
 https://www.python.org/downloads/
 
-If you don't Pip please follow this link:
-https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/
-This will teach you how to get started.
+#### If you don't Pip please follow this link:
 
-You should create a \<Project\> folder to work within.
+https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/
+
+I recommend creating a \<Project\> folder to work within.
 I named my folder Django.
 
 
