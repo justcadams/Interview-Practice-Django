@@ -11,7 +11,7 @@ You should create a <Project> folder to work within.
 I named my folder Django.
 
 
-1. Open a command prompt or terminal and navigate to your <Project> folder.
+1. Open a command prompt or terminal and navigate to your \<Project\> folder.
 
 
 2. Git clone this repository https://github.com/justcadams/Interview-Practice-Django.git.
